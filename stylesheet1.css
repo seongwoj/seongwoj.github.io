@@ -1,3 +1,13 @@
-.navbar-brand{
-    background-color: white;
+.navbar-brand {
+    margin: 10px;
+    padding: 10px;
+}
+
+.row2 {
+    margin: 10px;
+    padding: 10px;
+}
+
+img {
+    float: left;
 }
